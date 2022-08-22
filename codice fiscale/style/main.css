@@ -1,0 +1,13 @@
+body {
+    background-color: #e6ebe7;
+}
+
+.navbar {
+    background-color: wheat;
+}
+
+.navbar_menu {
+    list-style-type: none;
+}
+
+.navbar_menu_logo {}

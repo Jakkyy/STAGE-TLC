@@ -1,0 +1,35 @@
+<!--
+        <tr id="btn-0">
+            <th scope="col">1</th>
+
+            <td> <input class="d-none"> </input> CIAO </td>
+            <td> <input class="d-none"> </input> Prova</td>
+            <td> <input class="d-none"> </input> CIAO </td>
+            <td> <input class="d-none"> </input> Prova</td>
+            <td> <button onclick="modifica()"> Modifica sium </button> </td>
+        </tr>
+        <tr id="btn-1">
+            <th scope="col">2</th>
+            <td> <input class="d-none"> </input> CIAO </td>
+            <td> <input class="d-none"> </input> Prova</td>
+            <td> <input class="d-none"> </input> CIAO </td>
+            <td> <input class="d-none"> </input> Prova</td>
+            <td> <button onclick="modifica()"> Modifica sium </button> </td>
+        </tr>
+        <tr id="btn-2">
+            <th scope="col">3</th>
+            <td> <input class="d-none"> </input> CIAO </td>
+            <td> <input class="d-none"> </input> Prova</td>
+            <td> <input class="d-none"> </input> CIAO </td>
+            <td> <input class="d-none"> </input> Prova</td>
+            <td> <button onclick="modifica()"> Modifica sium </button> </td>
+        </tr>
+        <tr id="btn-3">
+            <th scope="col">4</th>
+            <td> <input class="d-none"> </input> CIAO </td>
+            <td> <input class="d-none"> </input> Prova</td>
+            <td> <input class="d-none"> </input> CIAO </td>
+            <td> <input class="d-none"> </input> Prova</td>
+            <td> <button onclick="modifica()"> Modifica sium </button> </td>
+        </tr>
+        -->

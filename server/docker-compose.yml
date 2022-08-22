@@ -1,0 +1,19 @@
+version: '2'
+services:
+    www:
+        build: ./.docker
+        ports: 
+            - ${HTTP_PORT}:80
+            - ${HTTPS_PORT}:443
+        volumes:
+            - ./${ROOT_DIRECTORY}:/var/www/html/
+            - ./php.ini:/usr/local/etc/php/custom.d
+        networks:
+            - default
+
+    mailhog:
+        image: mailhog/mailhog
+        ports:
+        - 8025:8025
+volumes:
+    persistent:
